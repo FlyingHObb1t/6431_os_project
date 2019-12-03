@@ -30,6 +30,6 @@ Compile the java src
 
 Give the second argument to write the result to a file.
 
-	java -cp ./gen DiningService ./data/project-sample-input-1.txt ../output/output-1.txt
+	java -cp ./gen DiningService ./data/project-sample-input-1.txt ./output/output-1.txt
 
 ##### Note: the messages at the same time may be out of order.
