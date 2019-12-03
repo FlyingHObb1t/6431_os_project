@@ -1,8 +1,8 @@
 .idea
 
-output/production
+output
 
-output/result
+!output/sample_output
 
 6431_OS_PROJECT.iml
 
